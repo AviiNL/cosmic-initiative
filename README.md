@@ -1,7 +1,5 @@
 # THE COSMIC INITIATIVE
 
-this is a test
-
 _A WEBASSEMBLY ORCHESTRATION FRAMWORK_
 
 The Cosmic Initiative is a framework for orchestrating WebAssembly components
